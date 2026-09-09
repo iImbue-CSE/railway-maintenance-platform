@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+ortools
+scikit-learn
+networkx
+pydantic
